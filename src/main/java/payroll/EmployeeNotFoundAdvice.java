@@ -1,4 +1,4 @@
-package com.payroll;
+package payroll;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;

@@ -1,4 +1,4 @@
-package com.payroll;
+package payroll;
 
 import java.util.Objects;
 
